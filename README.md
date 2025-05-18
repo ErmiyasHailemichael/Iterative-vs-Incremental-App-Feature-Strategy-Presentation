@@ -100,4 +100,4 @@ For this specific feature, I'd recommend a **hybrid approach with an incremental
 ## 4. Video Presentation
 
 Watch a summary of this strategy on YouTube:  
-[Iterative vs Incremental App Feature Strategy Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Iterative vs Incremental App Feature Strategy Presentation](https://youtu.be/C7jZAwNAulk)
