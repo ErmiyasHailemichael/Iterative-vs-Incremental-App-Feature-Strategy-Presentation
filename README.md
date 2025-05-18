@@ -4,7 +4,7 @@ My Idea: I am working on a new feature for a ride-sharing application, similar t
 
 ## 1. Project Objectives
 
-**Primary Objective:** To enhance the ride experience by allowing passengers to create and share their music/podcast preferences with drivers, enabling a personalized audio environment during their trip.
+**Primary Objective:** To enhance the ride experience by allowing passengers to create and share their music/podcast playlist with drivers, enabling a personalized audio environment during their trip.
 
 **Secondary Objectives:**
 
@@ -17,7 +17,7 @@ My Idea: I am working on a new feature for a ride-sharing application, similar t
 
 ### Iterative Approach
 
-In an iterative approach, you'd develop the entire feature but refine it through successive versions:
+In an iterative approach, I'd develop the entire feature but refine it through successive versions:
 
 **Iteration 1:**
 
@@ -95,3 +95,9 @@ For this specific feature, I'd recommend a **hybrid approach with an incremental
 * The hybrid approach ensures personalization features are available quickly (meeting the primary objective)
 * Iterative refinement of each component ensures quality and usability
 * The phased approach allows for partnership discussions with streaming services to develop naturally
+
+
+## 4. Video Presentation
+
+Watch a summary of this strategy on YouTube:  
+[Iterative vs Incremental App Feature Strategy Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
