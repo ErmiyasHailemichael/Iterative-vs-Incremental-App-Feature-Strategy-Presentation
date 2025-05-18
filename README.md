@@ -1,1 +1,3 @@
 # Iterative-vs-Incremental-App-Feature-Strategy-Presentation
+
+My Idea - I have this application feature I have trying to work. It is a Lyft and Uber feature that rider would make happy if it exists. The feature is to allow Riders to have a music/podcast playlist so when they book their ride, it will show up on the Driver end and can play the customer playlist while they are riding. I am not sure if the qualify as a feature. 
